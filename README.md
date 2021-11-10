@@ -1,3 +1,17 @@
+# Google Search Engine Clone
+
+This is a simple Google search engine clone built with ReactJS embedded with google custom search API to integrate the data.
+
+## Preview
+
+![image](https://user-images.githubusercontent.com/55031190/141170457-dc115e10-989f-40a3-9ccf-4cc174865ab3.png)
+
+![image](https://user-images.githubusercontent.com/55031190/141170745-b3d0707f-7773-4404-9c1c-a40e71d10270.png)
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
